@@ -39,11 +39,11 @@
 </div>
 <footer>
     <div id="footer" class="footer">
-        <a href="http://jigsaw.w3.org/css-validator/validator?uri=p3.kanch.me&profile=css3&ampusermedium=all&ampwarning=1&ampvextwarning=">
+        <a href="http://jigsaw.w3.org/css-validator/validator?uri=p3.kanch.me&amp;profile=css3&amp;usermedium=all&amp;warning=1&amp;vextwarning=">
             Validate CSS
         </a>
         <br>
-        <a href="http://validator.w3.org/check?uri=p3.kanch.me&ampcharset=%28detect+automatically%29&ampdoctype=Inline&ampgroup=0">
+        <a href="http://validator.w3.org/check?uri=p3.kanch.me&amp;charset=%28detect+automatically%29&amp;doctype=Inline&amp;group=0">
             Validate HTML
         </a>
     </div>
