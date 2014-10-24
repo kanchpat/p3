@@ -17,10 +17,10 @@
 <div id="content" class="content">
     <br>
     <br>
-        @yield('content')
+    @yield('content')
 </div>
 <div id="errors" class="errors">
-        @yield('errors','')
+    @yield('errors','')
 </div>
 <br>
 <div id="buttons" class="buttons">
@@ -37,5 +37,16 @@
     <br>
     @yield('back')
 </div>
+<footer>
+    <div id="footer" class="footer">
+        <a href="http://jigsaw.w3.org/css-validator/validator?uri=p3.kanch.me&profile=css3&usermedium=all&warning=1&vextwarning=">
+            Validate CSS
+        </a>
+        <br>
+        <a href="http://validator.w3.org/check?uri=p3.kanch.me&charset=%28detect+automatically%29&doctype=Inline&group=0">
+            Validate HTML
+        </a>
+    </div>
+</footer>
 </body>
 </html>

@@ -23,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_master.blade.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="_master.blade.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/_master.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="0" selection-start="376" selection-end="376" vertical-scroll-proportion="-9.961538" vertical-offset="81" max-vertical-offset="782">
+            <state line="51" column="7" selection-start="1123" selection-end="1123" vertical-scroll-proportion="0.94014084" vertical-offset="333" max-vertical-offset="969">
               <folding />
             </state>
           </provider>
@@ -36,15 +36,25 @@
         <entry file="file://$PROJECT_DIR$/app/views/hello.php">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="7679" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="816">
-              <folding />
+              <folding>
+                <marker date="1413076115602" expanded="true" signature="31:7677" placeholder="..." />
+                <marker date="1413076115602" expanded="true" signature="38:538" placeholder="..." />
+                <marker date="1413076115602" expanded="true" signature="109:530" placeholder="..." />
+                <marker date="1413076115602" expanded="true" signature="178:269" placeholder="{...}" />
+                <marker date="1413076115602" expanded="true" signature="282:419" placeholder="{...}" />
+                <marker date="1413076115602" expanded="true" signature="436:466" placeholder="{...}" />
+                <marker date="1413076115602" expanded="true" signature="473:521" placeholder="{...}" />
+                <marker date="1413076115602" expanded="true" signature="545:7669" placeholder="..." />
+                <marker date="1413076115602" expanded="true" signature="568:7661" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styleforpwdgen.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="styleforpwdgen.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/css/styleforpwdgen.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="21" selection-start="806" selection-end="806" vertical-scroll-proportion="0.7138047" vertical-offset="273" max-vertical-offset="901">
+            <state line="53" column="0" selection-start="970" selection-end="970" vertical-scroll-proportion="0.0" vertical-offset="358" max-vertical-offset="1020">
               <folding />
             </state>
           </provider>
@@ -103,8 +113,8 @@
         <option value="$PROJECT_DIR$/app/views/user.blade.php" />
         <option value="$PROJECT_DIR$/app/views/index.blade.php" />
         <option value="$PROJECT_DIR$/readme.md" />
-        <option value="$PROJECT_DIR$/app/views/_master.blade.php" />
         <option value="$PROJECT_DIR$/public/css/styleforpwdgen.css" />
+        <option value="$PROJECT_DIR$/app/views/_master.blade.php" />
       </list>
     </option>
   </component>
@@ -487,7 +497,17 @@
     <entry file="file://$PROJECT_DIR$/app/views/hello.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="7679" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="816">
-          <folding />
+          <folding>
+            <marker date="1413076115602" expanded="true" signature="31:7677" placeholder="..." />
+            <marker date="1413076115602" expanded="true" signature="38:538" placeholder="..." />
+            <marker date="1413076115602" expanded="true" signature="109:530" placeholder="..." />
+            <marker date="1413076115602" expanded="true" signature="178:269" placeholder="{...}" />
+            <marker date="1413076115602" expanded="true" signature="282:419" placeholder="{...}" />
+            <marker date="1413076115602" expanded="true" signature="436:466" placeholder="{...}" />
+            <marker date="1413076115602" expanded="true" signature="473:521" placeholder="{...}" />
+            <marker date="1413076115602" expanded="true" signature="545:7669" placeholder="..." />
+            <marker date="1413076115602" expanded="true" signature="568:7661" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -519,16 +539,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/_master.blade.php">
+    <entry file="file://$PROJECT_DIR$/public/css/styleforpwdgen.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="376" selection-end="376" vertical-scroll-proportion="-9.961538" vertical-offset="81" max-vertical-offset="782">
+        <state line="53" column="0" selection-start="970" selection-end="970" vertical-scroll-proportion="0.0" vertical-offset="358" max-vertical-offset="1020">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/styleforpwdgen.css">
+    <entry file="file://$PROJECT_DIR$/app/views/_master.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="21" selection-start="806" selection-end="806" vertical-scroll-proportion="0.7138047" vertical-offset="273" max-vertical-offset="901">
+        <state line="51" column="7" selection-start="1123" selection-end="1123" vertical-scroll-proportion="0.94014084" vertical-offset="333" max-vertical-offset="969">
           <folding />
         </state>
       </provider>
