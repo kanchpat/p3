@@ -18,6 +18,7 @@ border-top: 1px solid #96d1f8;
 .content{
     font-weight:normal;
     text-align: center;
+    font-size: 1.0em;
 }
 .header{
 color:#444;
@@ -31,13 +32,14 @@ color:#444;
     text-align: center;
 }
 .errors{
+    font-size: 1.5em;
     color: #D8000C;
 }
 .body{
 
 }
 .result{
-    font-size: 1em;
+    font-size: 1.5em;
     text-align:center;
     color: #330033;
 }

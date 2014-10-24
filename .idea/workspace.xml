@@ -23,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_master.blade.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_master.blade.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/_master.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="207" selection-end="207" vertical-scroll-proportion="0.23943663" vertical-offset="17" max-vertical-offset="884">
+            <state line="20" column="0" selection-start="376" selection-end="376" vertical-scroll-proportion="-9.961538" vertical-offset="81" max-vertical-offset="782">
               <folding />
             </state>
           </provider>
@@ -41,10 +41,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styleforpwdgen.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="styleforpwdgen.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/css/styleforpwdgen.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="23" selection-start="0" selection-end="815" vertical-scroll-proportion="0.0" vertical-offset="273" max-vertical-offset="867">
+            <state line="41" column="21" selection-start="806" selection-end="806" vertical-scroll-proportion="0.7138047" vertical-offset="273" max-vertical-offset="901">
               <folding />
             </state>
           </provider>
@@ -97,7 +97,6 @@
         <option value="$PROJECT_DIR$/app/views/paralogic.php" />
         <option value="$PROJECT_DIR$/app/views/userlogic.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/public/css/styleforpwdgen.css" />
         <option value="$PROJECT_DIR$/app/controllers/UserController.php" />
         <option value="$PROJECT_DIR$/app/routes.php" />
         <option value="$PROJECT_DIR$/app/views/para.blade.php" />
@@ -105,6 +104,7 @@
         <option value="$PROJECT_DIR$/app/views/index.blade.php" />
         <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/app/views/_master.blade.php" />
+        <option value="$PROJECT_DIR$/public/css/styleforpwdgen.css" />
       </list>
     </option>
   </component>
@@ -498,13 +498,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/styleforpwdgen.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="23" selection-start="0" selection-end="815" vertical-scroll-proportion="0.0" vertical-offset="273" max-vertical-offset="867">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/index.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="0" selection-start="114" selection-end="114" vertical-scroll-proportion="-5.1923075" vertical-offset="1" max-vertical-offset="578">
@@ -528,7 +521,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/_master.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="207" selection-end="207" vertical-scroll-proportion="0.23943663" vertical-offset="17" max-vertical-offset="884">
+        <state line="20" column="0" selection-start="376" selection-end="376" vertical-scroll-proportion="-9.961538" vertical-offset="81" max-vertical-offset="782">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/styleforpwdgen.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="21" selection-start="806" selection-end="806" vertical-scroll-proportion="0.7138047" vertical-offset="273" max-vertical-offset="901">
           <folding />
         </state>
       </provider>

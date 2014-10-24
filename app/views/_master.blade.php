@@ -17,14 +17,10 @@
 <div id="content" class="content">
     <br>
     <br>
-    <h2>
         @yield('content')
-    </h2>
 </div>
 <div id="errors" class="errors">
-    <h2>
         @yield('errors','')
-    </h2>
 </div>
 <br>
 <div id="buttons" class="buttons">
@@ -35,9 +31,7 @@
 </div>
 <br>
 <div id="result" class="result">
-    <h3>
     @yield('result')
-    </h3>
 </div>
 <div id="back" class="back">
     <br>
