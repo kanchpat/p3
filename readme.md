@@ -12,7 +12,7 @@ Visit [my link](http://p3.kanch.me)
 
 ## Demo
 
- Screen cast
+ [Screen cast](http://screencast.com/t/m7hQqP8qWIlM)
 
 ## Details for teaching team
  1. Completely used Laravel framework. (This includes Form, Validator, Controllers)
